@@ -1,4 +1,4 @@
-public class ex11 {
+public class ex10 {
     public static void main(String[] args) {
         double peso = 70.5;
         System.out.println(peso);

@@ -1,4 +1,4 @@
-public class ex3 {
+public class ex2 {
     public static void main(String[] args) {
         final int ANO_ATUAL = 2026;
         int anoNascimento = ANO_ATUAL-20;

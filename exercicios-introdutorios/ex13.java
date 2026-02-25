@@ -1,4 +1,4 @@
-public class ex14 {
+public class ex13 {
     public static void main(String[] args) {
         int var1 = 10;
         double var2 = 16.8;

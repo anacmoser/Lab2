@@ -1,4 +1,4 @@
-public class ex5 {
+public class ex4 {
     public static void main(String[] args) {
         final double taxa;
         taxa = 2.5;
