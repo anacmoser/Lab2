@@ -11,14 +11,14 @@ Declare três variáveis para armazenar:
 
 Atribua valores e exiba na tela.
 
->[Resolução](ex1.java)
+>[Resolução](Lista1-resolucoes/ex1.java)
 
 ---
 
 ### 2.
 Declare uma constante chamada `ANO_ATUAL` com valor `2026` e calcule o ano de nascimento de uma pessoa com idade 20.
 
->[Resolução](ex2.java)
+>[Resolução](Lista1-resolucoes/ex2.java)
 
 ---
 
@@ -55,7 +55,7 @@ Transforme os valores abaixo em constantes adequadas:
 - velocidade máxima de uma via (80 km/h)  
 - número de meses do ano  
 - valor de PI  
->[Resolução](ex5.java)
+>[Resolução](Lista1-resolucoes/ex5.java)
 
 ---
 
@@ -75,7 +75,7 @@ Explique por que o código abaixo gera erro. Corrija.
 ```java
 char letra = "A";
 ```
->[Resolução](ex7.java)
+>[Resolução](Lista1-resolucoes/ex7.java)
 
 ---
 
@@ -102,7 +102,7 @@ Corrija o código:
 ```java
 float peso = 70.5;
 ```
-> [Resolução](ex10.java)
+>[Resolução](Lista1-resolucoes/ex10.java)
 
 ---
 
@@ -125,7 +125,7 @@ public class Programa {
     // função main, imprimir valores dos tipos primitivos
 }
 ```
->[Resolução](ex13.java)
+>[Resolução](Lista1-resolucoes/ex13.java)
 
 ---
 
@@ -183,6 +183,6 @@ Crie um programa que:
 - leia um número digitado pelo usuário  
 - calcule o dobro desse número  
 - exiba o resultado  
->[Resolução](ex20.java)
+>[Resolução](Lista1-resolucoes/ex20.java)
 
 Escreva também os comandos para compilar e executar.
