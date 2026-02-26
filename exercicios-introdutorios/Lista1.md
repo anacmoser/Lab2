@@ -81,7 +81,7 @@ char letra = "A";
 
 ### 8.
 Qual a diferença prática entre usar `int` e `double` em cálculos?
-> INT: variáveis numéricas inteiras (1, 5, 10). Double: ponto flutuante, (3.14, 1.83). A diferença prática em cálculos é a extadisão dos resultados, já que se uma operação entre números inteiros der um número quebrado, o Java retorna um número inteiro, portanto um resultado incorreto.
+> INT: variáveis numéricas inteiras (1, 5, 10). Double: ponto flutuante, (3.14, 1.83). A diferença prática em cálculos é a exatidão dos resultados, já que se uma operação entre números inteiros der um número quebrado, o Java retorna um número inteiro, portanto um resultado incorreto.
 
 ---
 
