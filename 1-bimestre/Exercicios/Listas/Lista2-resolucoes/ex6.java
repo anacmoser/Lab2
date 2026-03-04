@@ -5,6 +5,12 @@ public class ex6{
         if (obj instanceof Integer inteiro){
             System.out.println("é um inteiro!");
             int obj2 = Integer.valueOf(inteiro);
+            if (obj2 > 50){
+                System.out.println("O valor é maior que 50");
+            }
+            else{
+                System.out.println("O valor é menor ou igual a 50");
+            }
           
         }
         else{
