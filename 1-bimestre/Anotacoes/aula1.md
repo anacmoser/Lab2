@@ -23,13 +23,13 @@ A disciplina é mão na massa, com projeto prático.
 ### Módulo 1 — Fundamentos da Linguagem
 
 #### Fundamentos
-- [ ] Variáveis e constantes
-- [ ] Tipos de dados
-- [ ] Operadores
-- [ ] Entrada e saída de dados
+- [x] Variáveis e constantes
+- [x] Tipos de dados
+- [x] Operadores
+- [x] Entrada e saída de dados
 
 #### Estruturas de Controle
-- [ ] Condicionais (if / else)
+- [x] Condicionais (if / else)
 - [ ] Seleção múltipla (switch)
 - [ ] Laços de repetição (for, while)
 
