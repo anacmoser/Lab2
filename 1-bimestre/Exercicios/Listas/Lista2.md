@@ -60,7 +60,7 @@ Crie um programa que receba uma `String` contendo `"true"` ou `"false"`.
   - `"Acesso permitido"` se o valor for verdadeiro  
   - `"Acesso negado"` se o valor for falso  
 
->[Resolução](Lista3-resolucoes/ex5.java)
+>[Resolução](Lista2-resolucoes/ex5.java)
 
 ---
 
@@ -74,7 +74,7 @@ Crie um programa que declare uma variável do tipo `Object` e atribua a ela um v
 - Caso não seja um `Integer`, exiba:  
   `"Objeto não é do tipo Integer"`
 
->[Resolução](Lista3-resolucoes/ex6.java)
+>[Resolução](Lista2-resolucoes/ex6.java)
 
 ---
 
@@ -88,7 +88,7 @@ Crie um programa que declare uma variável do tipo `Object` contendo um valor nu
 - Caso contrário, exiba:  
   `"Tipo incompatível"`
 
->[Resolução](Lista3-resolucoes/ex7.java)
+>[Resolução](Lista2-resolucoes/ex7.java)
 
 ---
 
@@ -101,7 +101,7 @@ Crie um programa que declare duas variáveis do tipo `Object`, ambas contendo va
   - Use `if/else` para informar se são iguais ou qual é maior  
 - Se algum dos objetos não for `Integer`, exiba uma mensagem informando erro de tipo.
 
->[Resolução](Lista3-resolucoes/ex8.java)
+>[Resolução](Lista2-resolucoes/ex8.java)
 
 ---
 
@@ -115,7 +115,7 @@ Crie um programa que declare uma variável do tipo `Object` contendo uma `String
 - Caso contrário, exiba:  
   `"Entrada inválida"`
 
->[Resolução](Lista3-resolucoes/ex9.java)
+>[Resolução](Lista2-resolucoes/ex9.java)
 
 ---
 
@@ -130,7 +130,7 @@ Utilize uma estrutura com `if/else` combinada com `instanceof` para:
 - Caso não seja nenhum desses tipos, exibir:  
   `"Tipo não suportado"`
 
->[Resolução](Lista3-resolucoes/ex10.java)
+>[Resolução](Lista2-resolucoes/ex10.java)
 
 ---
 

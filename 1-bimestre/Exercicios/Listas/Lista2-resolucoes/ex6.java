@@ -1,6 +1,6 @@
 public class ex6{
     public static void main (String args[]){
-        Object obj = 10;
+        Object obj = 60;
 
         if (obj instanceof Integer inteiro){
             System.out.println("é um inteiro!");
