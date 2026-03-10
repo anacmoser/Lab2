@@ -1,4 +1,4 @@
-# EXERCÍCIOS – Lista de Exercícios 2 | Estruturas de Controle
+# EXERCÍCIOS – Lista de Exercícios 3 | Estruturas de Controle
 ## Laboratório de Programação II
 
 ---
@@ -9,7 +9,7 @@ Solicite a nota final de um aluno (entre 0 e 10).
 - Se a nota for **maior ou igual a 6**, mostre que ele está **aprovado**.  
 - Caso contrário, mostre que está **reprovado**.
 
->[Resolução](Lista2-resolucoes/ex1.java)
+>[Resolução](Lista3-resolucoes/ex1.java)
 
 ---
 
@@ -21,14 +21,14 @@ Um ano é bissexto quando:
 - **Exceto** os múltiplos de **100**, que **não são bissextos**
 - A menos que também sejam **divisíveis por 400**
 
->[Resolução](Lista2-resolucoes/ex2.java)
+>[Resolução](Lista3-resolucoes/ex2.java)
 
 ---
 
 ### 3.
 Peça **três números diferentes** e mostre **qual é o maior entre eles**.
 
->[Resolução](Lista2-resolucoes/ex3.java)
+>[Resolução](Lista3-resolucoes/ex3.java)
 
 ---
 
@@ -38,7 +38,7 @@ Peça uma **letra do alfabeto** e informe se ela é:
 - **Vogal**, ou  
 - **Consoante**
 
->[Resolução](Lista2-resolucoes/ex4.java)
+>[Resolução](Lista3-resolucoes/ex4.java)
 
 ---
 
@@ -49,7 +49,7 @@ Peça uma **letra do alfabeto** e informe se ela é:
 - Continue pedindo até que ele digite **0**.  
 - Ao final, exiba a **soma total dos números digitados**.
 
->[Resolução](Lista2-resolucoes/ex5.java)
+>[Resolução](Lista3-resolucoes/ex5.java)
 
 ---
 
@@ -60,7 +60,7 @@ Peça uma **letra do alfabeto** e informe se ela é:
 - Continue até que ele digite **um número negativo**.  
 - Ao final, informe **quantos números positivos foram digitados**.
 
->[Resolução](Lista2-resolucoes/ex6.java)
+>[Resolução](Lista3-resolucoes/ex6.java)
 
 ---
 
@@ -72,7 +72,7 @@ Peça uma **letra do alfabeto** e informe se ela é:
 - Dê dicas informando se o número é **maior ou menor** que o palpite.  
 - Continue até o usuário **acertar**.
 
->[Resolução](Lista2-resolucoes/ex7.java)
+>[Resolução](Lista3-resolucoes/ex7.java)
 
 ---
 
@@ -83,7 +83,7 @@ Peça uma **letra do alfabeto** e informe se ela é:
 - Continue até que ele digite **0**.  
 - Ao final, informe **qual foi o maior número digitado**.
 
->[Resolução](Lista2-resolucoes/ex8.java)
+>[Resolução](Lista3-resolucoes/ex8.java)
 
 ---
 
@@ -95,7 +95,7 @@ Peça uma **letra do alfabeto** e informe se ela é:
 
 Exemplo: `3456` → 4 dígitos.
 
->[Resolução](Lista2-resolucoes/ex9.java)
+>[Resolução](Lista3-resolucoes/ex9.java)
 
 ---
 
@@ -113,7 +113,7 @@ Exemplo: `3456` → 4 dígitos.
 6 → Sexta  
 7 → Sábado  
 
->[Resolução](Lista2-resolucoes/ex10.java)
+>[Resolução](Lista3-resolucoes/ex10.java)
 
 ---
 
@@ -124,7 +124,7 @@ Exemplo: `3456` → 4 dígitos.
 - Peça também um **operador** (`+`, `-`, `*`, `/`).  
 - Utilize **`switch`** para realizar a operação e exibir o resultado.
 
->[Resolução](Lista2-resolucoes/ex11.java)
+>[Resolução](Lista3-resolucoes/ex11.java)
 
 ---
 
@@ -139,4 +139,4 @@ Peça ao usuário para escolher um idioma:
 
 Exiba **"Olá"** no idioma escolhido.
 
->[Resolução](Lista2-resolucoes/ex12.java)
+>[Resolução](Lista3-resolucoes/ex12.java)
