@@ -132,11 +132,3 @@ Utilize uma estrutura com `if/else` combinada com `instanceof` para:
 
 >[Resolução](Lista2-resolucoes/ex10.java)
 
----
-
-## 💻 Compilação e Execução
-
-Para compilar:
-
-```bash
-javac NomeDoArquivo.java
