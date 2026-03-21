@@ -9,8 +9,6 @@ public class ex3 {
 
             long periodo = ChronoUnit.DAYS.between(dataAtual, dataFinal);
 
-
-
             System.out.println("Faltam "+periodo +" dias para o final do ano");
     }
 }
