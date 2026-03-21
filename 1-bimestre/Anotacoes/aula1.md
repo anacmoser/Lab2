@@ -30,11 +30,11 @@ A disciplina é mão na massa, com projeto prático.
 
 #### Estruturas de Controle
 - [x] Condicionais (if / else)
-- [ ] Seleção múltipla (switch)
-- [ ] Laços de repetição (for, while)
+- [x] Seleção múltipla (switch)
+- [x] Laços de repetição (for, while)
 
 #### Estruturas de Dados
-- [ ] Vetores
+- [x] Vetores
 - [ ] Matrizes
 - [ ] Coleções (List, Set, Map)
 
