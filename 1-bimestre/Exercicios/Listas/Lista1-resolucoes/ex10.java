@@ -1,6 +1,6 @@
 public class ex10 {
     public static void main(String[] args) {
-        double peso = 70.5;
+        float peso = 70.5f;
         System.out.println(peso);
     }
 }

@@ -1,4 +1,4 @@
-public class ex1 {
+ public class ex1 {
     public static void main(String[] args) {
         String nome = "Surfista maluco";
         int idade = 19;

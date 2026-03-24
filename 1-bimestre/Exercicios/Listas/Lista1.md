@@ -67,7 +67,7 @@ a) população de um país
 b) temperatura corporal  
 c) letra inicial do nome  
 d) se o aluno está matriculado  
->[Resolução](ex6.java)
+>[Resolução](Lista1-resolucoes/ex6.java)
 ---
 
 ### 7.
