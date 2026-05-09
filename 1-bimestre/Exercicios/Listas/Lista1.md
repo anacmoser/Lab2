@@ -1,4 +1,4 @@
-# EXERCÍCIOS – Lista de Exercícios 1 | 24/02/2026
+# EXERCÍCIOS 1 bimestre – Lista de Exercícios 1 | 24/02/2026
 ## Laboratório de Programação II
 ### Slides: [Aula 1](../../Slides/Aula1.pdf), [Aula 2](../../Slides/Aula2.pdf)
 
