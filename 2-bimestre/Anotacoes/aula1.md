@@ -113,6 +113,11 @@ Restringe o acesso externo aos dados internos de um objeto. Utiliza-se o qualifi
 
 ## Método / função
 Uma função é um trecho de código que visa reduzir a redundância do programa, permitindo que uma mesma lógica seja aplicada a diferentes tarefas. Um método é uma função de uma classe específica. Como a classe carro pode ter o método buzinar()
+```java
+    public Double calcularSalario(Double percentual){
+   //qualificador de acesso | tipo de retorno | nome do metodo | argumentos
+    }
+```
 
 ## Método Construtor
 Método especial usado para inicializar objetos no momento em que eles são criados. Possui o mesmo nome da classe, não possuir tipo de retorno e é executado automaticamente ao criar o objeto.
@@ -130,7 +135,13 @@ Método especial usado para inicializar objetos no momento em que eles são cria
 - qualificador de acesso `public`;
 - mesmo nome da Classe;
 - Argumentos;
-- Inicia os atributos com o valor dos argumentos
+- Inicia os atributos com o valor dos argumentos.0
+
+## Métodos de acesso
+utilizados para atualizar e recuperar os valores dos atributos dos objetos da classe. Get e Set são convenções para o gerenciamento sobre o acesso dos atributos
+
+## UML - Unified Modeling Language
+Padrão para representação de modelagens utilizadas na POO. Diagrama de classes é um dos principais componentes.
 
 ## Glossário
 - `parâmetro`: variável declarada na função (método) para receber valores.
