@@ -1,4 +1,4 @@
-# Anotações - Aula 1
+# Anotações - Aula 1 | Desenvolvimento Orientado a Objetos
 ## Abstração
 Reduzir a complexidade (utilizando apenas as partes importantes) de um código para entendê-lo com mais facilidade
 

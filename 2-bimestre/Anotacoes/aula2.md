@@ -1,4 +1,4 @@
-# Anotações - 2 aula
+# Anotações - Aula 2 | Desenvolvimento Orientado a Objetos
 ## JAVADOC
 ``Java Platform, Standard Edition & Java Development Kit Version API Specification``
 Um gerador de documentação criado pela Sun Microsystems para documentar a API dos programas em Java, a partir do código-fonte. O resultado é expresso em HTML
