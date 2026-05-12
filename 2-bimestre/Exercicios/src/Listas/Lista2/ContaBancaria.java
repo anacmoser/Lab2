@@ -1,5 +1,4 @@
 package Listas.Lista2;
-import java.util.Scanner;
 
 public class ContaBancaria {
     private String titular;

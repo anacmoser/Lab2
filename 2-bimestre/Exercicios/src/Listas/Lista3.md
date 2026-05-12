@@ -26,7 +26,7 @@ As subclasses devem sobrescrever o método `emitirSom()` para exibir:
   - `equals()`
   - `toString()`
 
->[Resolução](Lista3-resolucoes/Animal.java)
+>[Resolução](../Listas/Lista3/Animal.java)
 
 ---
 
@@ -57,7 +57,7 @@ Depois, crie as subclasses:
   - `equals()`
   - `toString()`
 
->[Resolução](Lista3-resolucoes/Veiculo.java)
+>[Resolução](../Listas/Lista3/Veiculo.java)
 
 ---
 
@@ -89,7 +89,7 @@ Faça uma hierarquia de classes para representar itens em uma biblioteca.
   - `equals()`
   - `toString()`
 
->[Resolução](Lista3-resolucoes/ItemBiblioteca.java)
+>[Resolução](../Listas/Lista3/ItemBiblioteca.java)
 
 ---
 
@@ -122,7 +122,7 @@ Faça um sistema que modele diferentes tipos de transportes.
   - `equals()`
   - `toString()`
 
->[Resolução](Lista3-resolucoes/Transporte.java)
+>[Resolução](../Listas/Lista3/Transporte.java)
 
 ---
 
@@ -150,7 +150,7 @@ Depois, crie as subclasses:
 
 Crie uma lista de funcionários e calcule a bonificação total de todos.
 
->[Resolução](Lista3-resolucoes/Funcionario.java)
+>[Resolução](../Listas/Lista3/Funcionario.java)
 
 ---
 
@@ -189,6 +189,6 @@ Sobrescreve `processarPagamento()` para imprimir:
 "Pagamento com Pix realizado com sucesso."
 ```
 
->[Resolução](Lista3-resolucoes/Pagamento.java)
+>[Resolução](../Listas/Lista3/Pagamento.java)
 
 ---
